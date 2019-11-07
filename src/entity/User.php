@@ -9,7 +9,10 @@
 
 class User
 {
+	public function view()
+	{
 
+	}
 }
 
 
