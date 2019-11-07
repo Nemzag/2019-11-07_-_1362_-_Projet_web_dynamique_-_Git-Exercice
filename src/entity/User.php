@@ -16,6 +16,10 @@ class User
 	public function viewOne() {
 
 	}
+
+	public function viewNone() {
+
+	}
 }
 
 
