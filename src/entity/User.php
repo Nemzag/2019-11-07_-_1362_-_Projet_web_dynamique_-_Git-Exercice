@@ -9,8 +9,11 @@
 
 class User
 {
-	public function view()
-	{
+	public function view() {
+
+	}
+
+	public function viewOne() {
 
 	}
 }
