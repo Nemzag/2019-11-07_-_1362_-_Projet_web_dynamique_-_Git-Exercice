@@ -7,5 +7,10 @@
  * Updated:
 */
 
+class User
+{
+
+}
+
 
 
